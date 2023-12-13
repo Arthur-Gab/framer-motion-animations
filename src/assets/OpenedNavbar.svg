@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="OpenedNavbar">
+<rect width="32" height="32" fill="white"/>
+<path id="Line 1" d="M6 27L27 6" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<path id="Line 3" d="M6 6L27 27" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>

@@ -1,6 +1,10 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef } from "react";
 
-export const useDimensions = (ref) => {
+type Ref = {
+  current: HTMLElement;
+};
+
+export const useDimensions = (ref: Ref) => {
   const dimensions = useRef({
     width: 0,
     height: 0,
